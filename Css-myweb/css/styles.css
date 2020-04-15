@@ -1,0 +1,145 @@
+body {
+  color: #00a8cc;
+  margin: 0;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+  color: #928a97;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+}
+
+h2 {
+  color: #679b9b;
+  font-size: 2.0rem;
+  font-weight: normal;
+  padding: bottom;
+  font-family: 'Dancing Script', cursive;
+}
+
+h3 {
+  color: #6983aa;
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+}
+
+/*Dotted line*/
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #827397;
+  border-width: 5px;
+  width: 5%;
+}
+
+/*containers*/
+.top-container {
+  background-color: #21243d;
+  position: relative;
+  padding-bottom: 90px;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #27496d;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 200px;
+}
+
+.bottom-container {
+  background-color: #21243d;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 2px;
+}
+
+/*paragrahs*/
+.intro {
+  width: 40%;
+  margin: auto;
+}
+
+.contactMessage {
+  width: 40%
+  margin: auto;
+}
+
+p {
+  line-height: 2;
+  margin: auto;
+  padding-bottom: 50px;
+}
+
+/*images*/
+.cloud {
+  height: 50px;
+  position: fixed;
+  right: 15px;
+}
+
+.cloudTwo {
+  height: 100px;
+  position: fixed;
+  left: 15px;
+}
+
+.famImage {
+  width: 17%;
+}
+
+.computerSkills {
+  width: 10%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.hobbies {
+  width: 50%;
+  height: 50%;
+  margin: 100px auto 100px auto;
+  text-align: right;
+  line-height: 2;
+}
+
+.skill-row {
+  width: 25%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skillsImage {
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+
+.hobbyImage {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.footerLogo{
+  padding-top: 30px;
+
+}
+
+/*button*/
+.myButton {
+  color: #ffa41b;
+  background: #000839;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.footer-link{
+  color: #ffa41b;
+  background: #000839;
+  padding: 20px;
+  border-radius: 5px;
+}
